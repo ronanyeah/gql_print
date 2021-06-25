@@ -1,0 +1,5 @@
+mutation InsertData {
+  insert_position_one(object: { quantity: 0.0 }) {
+    id
+  }
+}
